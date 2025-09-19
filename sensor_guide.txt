@@ -1,0 +1,3 @@
+Motors typically operate between 40°C and 70°C .
+Voltage below 3.5V may indicate high current draw.
+Motion detected may be triggered by cooling fans or mechanical activity.
